@@ -1,4 +1,4 @@
-# Telecasting POC
+# Broadcasting POC
 
 A modern full-stack application's POC for network video broadcasting using FastAPI and WebSocket with a React frontend. Telecasting enables real-time video transmission across network infrastructure with a responsive user interface.
 
