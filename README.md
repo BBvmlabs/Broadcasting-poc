@@ -1,6 +1,6 @@
-# Telecasting
+# Telecasting POC
 
-A modern full-stack application for network video broadcasting using FastAPI and WebSocket with a React frontend. Telecasting enables real-time video transmission across network infrastructure with a responsive user interface.
+A modern full-stack application's POC for network video broadcasting using FastAPI and WebSocket with a React frontend. Telecasting enables real-time video transmission across network infrastructure with a responsive user interface.
 
 ## 🎯 Features
 
@@ -199,22 +199,5 @@ Access the interactive API documentation at `http://localhost:8000/docs` for tes
 ## 📦 Dependencies
 
 See `backend/requirments.txt` and `frontend/package.json` for complete dependency lists with specific versions.
-
-## 🤝 Contributing
-
-1. Create a new branch for your feature
-2. Make your changes and commit with descriptive messages
-3. Push to your branch
-4. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the terms specified in your repository.
-
-## 📞 Support
-
-For issues, questions, or contributions, please open an issue on the GitHub repository.
-
----
 
 **Happy Broadcasting! 🎬**
